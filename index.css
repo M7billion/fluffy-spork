@@ -1,0 +1,16 @@
+h1 , h2 {
+    text-align: center;
+    margin: 40px auto 0 ;
+    background-color: antiquewhite;
+    font-size: 4em;
+}
+
+#count-el {
+    margin-top: 0;
+    font-size: 5em;
+}
+
+#myage {
+    margin-top: 0;
+    font-size: 5em;
+}
