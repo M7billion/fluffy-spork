@@ -14,3 +14,24 @@ h1 , h2 {
     margin-top: 0;
     font-size: 5em;
 }
+
+#increment-btn {
+    display: block;
+    transition: ease-out 0.2s;
+    border: none;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin: 5px auto 5px;
+    background-color: darkred;
+    color: white;
+    width: 300px;
+    font-size: 1.5em;
+}
+#increment-btn:hover {
+    border: 3px solid white;
+    border-radius: 5px;
+    box-shadow: inset 300px 0 0 0 black;
+}
+
